@@ -33,7 +33,7 @@ $groups_counted_requests =  countBloodGroups($requests);
               <h4>Donors</h4>
             </a>
           </div>
-          <div class=" card-body">
+          <div class="card-body">
             <?= count($donors) ?>
           </div>
         </div>

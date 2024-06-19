@@ -41,7 +41,6 @@
                     <ul class="wsus__footer_menu">
                         <li><a href="<?= asset('index.php') ?>"><i class="fas fa-caret-right"></i>Home</a></li>
                         <li><a href="<?= asset('compatibility/index.php') ?>"><i class="fas fa-caret-right"></i> Compatibility</a></li>
-                        <!-- <li><a href="<?= asset('index.php#wsus__team') ?>"><i class="fas fa-caret-right"></i> Team</a></li> -->
                         <li><a href="<?= asset('contact/index.php') ?>"><i class="fas fa-caret-right"></i> Contact Us</a></li>
                     </ul>
                 </div>

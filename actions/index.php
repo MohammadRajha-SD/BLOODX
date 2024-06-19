@@ -18,7 +18,7 @@ if (!isAuthorized()) {
 
 $user_id = $_SESSION['USER']['user_id'];
 $user = fetchUser($user_id);
-print_r($user);
+
 $user_diseases = fetchUserDiseases($user_id);
 $bprocesses = fetchBloodProcesses();
 
